@@ -14,5 +14,7 @@ forge "http://forge.puppetlabs.com"
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 mod 'apache',
-  :git    => two_chains('https://github.com/puppetlabs/puppetlabs-apache'),
+  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
   :branch => 'docs_experiment'
+
+mod 'apache', '0.1.2'
