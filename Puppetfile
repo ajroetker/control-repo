@@ -17,4 +17,3 @@ mod 'apache',
   :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
   :branch => 'docs_experiment'
 
-mod 'puppetlabs/apache',       '0.1.2'
